@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-server-https",
+  "version": "1.0.0",
+  "description": "Servidor HTTPS con Node y Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djmai/NodeJS-Server-HTTPS.git"
+  },
+  "author": "Miguel Martínez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djmai/NodeJS-Server-HTTPS/issues"
+  },
+  "homepage": "https://github.com/djmai/NodeJS-Server-HTTPS#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "fs": "0.0.1-security",
+    "https": "^1.0.0"
+  }
+}
